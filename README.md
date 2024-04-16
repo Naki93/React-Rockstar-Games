@@ -22,6 +22,10 @@ Open your browser and visit http://localhost:3000 to view the app.
 ### Technologies Used
 React
 
+### Plans for Improvement
+Adding States: I plan to implement state management using React's built-in state management or a state management library such as Redux.
+Responsiveness: I aim to make the app fully responsive across different screen sizes and devices.
+
 ### Contributing
 If you'd like to contribute to this project, please follow these steps:
 
